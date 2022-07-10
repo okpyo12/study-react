@@ -1,4 +1,4 @@
-import styled, { css } from 'styled-components';
+import styled from 'styled-components';
 import { NavLink } from '../../node_modules/react-router-dom/index';
 
 const categories = [
